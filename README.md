@@ -3,7 +3,7 @@
 ---
 
 ## 💬 About Me
-- 🖥️ Systems programming or Development in C / C++
+- 🖥️ Aspiring Systems programming or Quant Developer
 - 🌐 Focused on Building Scalable C++ systems and applications
 - 🧱 Applying OOP and SOLID principles in C++ projects
 - 🧩 Competative Programming
@@ -47,12 +47,6 @@
 
 **[barebones_tcp_server](https://github.com/Pram018/barebones_tcp_server)**
 → Minimal TCP server implementation in C++.
-
-**[milestone_cpp](https://github.com/Pram018/milestone_cpp)**
-→ Object oriented programming in C++.
-
-**[CSES-problems](https://github.com/Pram018/CSES-problems)**
-→ Solving CSES problems.
 
 ---
 
