@@ -28,9 +28,9 @@
 
 ## 🚀 Focus Areas
 ![Systems Programming](https://img.shields.io/badge/SYSTEMS_PROGRAMMING-111111?style=for-the-badge)
-![Networking](https://img.shields.io/badge/NETWORKING-111111?style=for-the-badge)
 ![OOP Design](https://img.shields.io/badge/OOP_%26_SOLID-111111?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DATA_STRUCTURES_%26_ALGORITHMS-111111?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/MULTITHREADING-111111?style=for-the-badge)
 
 ---
 
