@@ -3,10 +3,10 @@
 ---
 
 ## 💬 About Me
-- 🖥️ Systems & backend programming in C / C++
-- 🌐 Building networked applications — TCP servers, async I/O with epoll
+- 🖥️ Systems programming or Development in C / C++
+- 🌐 Focused on Building Scalable C++ systems and applications
 - 🧱 Applying OOP and SOLID principles in C++ projects
-- 🧩 Solving competitive programming problems (CSES)
+- 🧩 Competative Programming
 
 ---
 
