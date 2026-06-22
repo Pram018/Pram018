@@ -1,14 +1,14 @@
-# Hi 👋, I'm Pramodh S
+<div align="center">
+<img src="https://github.com/Pram018/Pram018/assets/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
----
+# Welcome To My GitHub Profile !
 
-## 💬 About Me
-- 🖥️ Aspiring Systems programming or Quant Developer
-- 🌐 Focused on Building Scalable C++ systems and applications
-- 🧱 Applying OOP and SOLID principles in C++ projects
-- 🧩 Competative Programming
-
----
+<br/>
+<div align="center">
+<img src="https://github.com/Pram018/Pram018/assets/text_animation.gif" alt="Pramodh Typer" />
+</div>
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -26,37 +26,58 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
----
 
-## 🚀 Focus Areas
-![Systems Programming](https://img.shields.io/badge/SYSTEMS_PROGRAMMING-111111?style=for-the-badge)
-![OOP Design](https://img.shields.io/badge/OOP_%26_SOLID-111111?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DATA_STRUCTURES_%26_ALGORITHMS-111111?style=for-the-badge)
-![Multithreading](https://img.shields.io/badge/MULTITHREADING-111111?style=for-the-badge)
+<br/>
 
----
+- 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, CI/CD) roles**
 
-## 📌 Featured Projects
+<br/><br/>
 
-**[TemparatureConverter](https://github.com/Pram018/TemparatureConverter)**
-→ Temperature unit converter written in C++.
+<div align="center">
+<img src="https://github.com/Pram018/Pram018/assets/3rNn.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
 
-**[TodoApplication_With_C-_SOLID_Principles](https://github.com/Pram018/TodoApplication_With_C-_SOLID_Principles)**
-→ Todo application in C++ built around SOLID design principles.
 
-**[MultiClientAsyncEpollEchoServer](https://github.com/Pram018/MultiClientAsyncEpollEchoServer)**
-→ Multi-client asynchronous echo server using epoll, in C++.
+## 🛠️ Tech Stack
 
-**[barebones_tcp_server](https://github.com/Pram018/barebones_tcp_server)**
-→ Minimal TCP server implementation in C++.
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![GNU Make](https://img.shields.io/badge/Make-A42E2B?style=flat&logo=gnu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/GDB-3776AB?style=flat&logo=gnu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
----
+## 🌱 I’m currently learning: **Currently Focused on Improving my C++ and Python by continuously learning new concepts and solving problems**
 
-## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pram018)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramodh-s-801038304)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:[pramodhs316@gmail.com])
 
----
+<div align="center">
+<img src="https://github.com/Pram018/Pram018/assets/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
 
-⭐ If you like my work, consider starring my repositories!
+- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+
+- 💬 Ask me about: **Science & Technology | Anime | Music | Reading**
+
+- 🤓 Active User at: **GitHub | LinkedIn**
+
+- 📫 Connect with me:
+
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pram018)
+
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramodh-s-801038304)
+
+    [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:[pramodhs316@gmail.com])
+    
+<div align="center">
+<img src="https://github.com/Pram018/Pram018/assets/connected.gif" alt="Pramodh S" width="350" height="200" />
+</div>
+
+
