@@ -34,7 +34,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://github.com/Pram018/Pram018/assets/3rNn.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/Pram018/Pram018/blob/main/assets/3rNn.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
